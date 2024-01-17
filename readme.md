@@ -1,0 +1,1 @@
+I had many issues getting the VM up and running.  It turns out that this is because I had not selected a powerful enough machine.  WHen i created a new, more powerful VM, I was able to install SQL server and SSMS, then restore the database.  
